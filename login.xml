@@ -1,0 +1,14 @@
+<login>
+    <user>
+    <username>Nitin</username>
+    <password>123</password>
+    </user>
+     <user>
+    <username>dev</username>
+    <password>321</password>
+    </user>
+    <user>
+    <username>suraj</username>
+    <password>9925</password>
+    </user>
+</login>
